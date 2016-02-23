@@ -1,0 +1,2 @@
+# do not save any JSON here because we do not keep private data in the repository
+*.json
